@@ -40,7 +40,7 @@ class QuizSummary extends Component {
     } else if (userScore > 90 && userScore <= 100) {
       remark = "👑 Perfectly done";
     }
-    if (state != undefined) {
+    if (state !== undefined) {
       stats = (
         <Fragment>
           <div className="bg-gradient-to-tr from-[#fff] via-[#e0f1ff] to-[#6cbdff] text-center md:px-20 2xl:px-40 text-[#556B78] pt-[100px]  px-10 pb-20 min-h-[100vh] ">
