@@ -1,0 +1,81 @@
+[
+    {
+        "question": "How many Zimbabwean state universities had Innovation Hubs established in 2018",
+        "optionA": "6",
+        "optionB": "3",
+        "optionC": "1",
+        "optionD": "9",
+        "answer": "1"
+    },
+    {
+        "question": "A patent is a...",
+        "optionA": "New business entity, i.e. a new company formed to commercialize one or more related inventions generated from the research work from HIT.",
+        "optionB": "Permission that the owner or controller of intellectual property grants to another party.",
+        "optionC": "Legal document that describes an invention and grants a property rights to the inventor(s) or owner.",
+        "optionD": "Way by which TTLCC grants rights in a certain product or technology to a third party in a certain field of activity, and for a certain period",
+        "answer": "Legal document that describes an invention and grants a property rights to the inventor(s) or owner"
+    },
+    {
+        "question": "Which company at HIT develops medical equipment?",
+        "optionA": "Meddes",
+        "optionB": "Matsimba",
+        "optionC": "LADS Africa",
+        "optionD": "Violine",
+        "answer": "Meddes"
+    },
+    {
+        "question": "Which company at HIT is behind the development and deployment of ZUPCO tapcard innovation?",
+        "optionA": "LADS Africa",
+        "optionB": "Matsimba",
+        "optionC": "Meddes",
+        "optionD": "Violine",
+        "answer": "Matsimba"
+    },
+    {
+        "question": "What is the name of the company that is carrying out the digital transformation of local authorities in Zimbabwe?",
+        "optionA": "Violine",
+        "optionB": "Matsimba",
+        "optionC": "LADS Africa",
+        "optionD": "Meddes",
+        "answer": "LADS Africa"
+    },
+    {
+        "question": "Which areas of technology are the companies housed in the HIT Innovation Hub involved in?",
+        "optionA": "Software Engineering/Development, Medical technology, Design Engineering",
+        "optionB": "Allied health, Materials Engineering and Food Processing Technology",
+        "optionC": "Renewable Energy, Financial Engineering and  Chemical Engineering.",
+        "answer": "Software Engineering/Development, Medical technology, Design Engineering"
+    },
+    {
+        "question": "How many Undergraduate programs are offered at HIT?",
+        "optionA": "19",
+        "optionB": "10",
+        "optionC": "21",
+        "optionD": "7",
+        "answer": "19"
+    },
+    {
+        "question": "Which programme or course focuses on foundry products at HIT",
+        "optionA": "Software Engineering",
+        "optionB": "Food Processing Technology",
+        "optionC": "Materials Engineering",
+        "optionD": "Electronics Engineering",
+        "answer": "Materials Engineering"
+    },
+    {
+        "question": "Which centre at HIT takes the research and innovation outputs through commercialization?",
+        "optionA": "Technology centre",
+        "optionB": "Technopreneurship Development Centre",
+        "optionC": "Technology Transfer Licensing and Commercialization Centre",
+        "optionD": "Teaching and Education Centre",
+        "answer": "Technology Transfer Licensing and Commercialization Centre"
+    },
+    {
+        "question": "What does Violine do?",
+        "optionA": "Automated reprographics and software development",
+        "optionB": "Develops medical equipment",
+        "optionC": "Digital transformation of local authorities in Zimbabwe?",
+        "optionD": "Development and deployment of ZUPCO tapcard innovation?",
+        "answer": "Automated reprographics and software development"
+    }
+]
