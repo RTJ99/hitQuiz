@@ -490,12 +490,18 @@ class Play extends React.Component {
               >
                 Next
               </button>
-              <button
+              {/* <button
                 className="bg-red-500 rounded-lg text-white p-2 m-2 hover:bg-red-700 cursor-pointer"
                 onClick={this.handleButtonClick}
               >
                 Quit
-              </button>
+              </button> */}
+              <a
+                href="/"
+                className="bg-red-500 rounded-lg text-white p-2 m-2 hover:bg-red-700 cursor-pointer"
+              >
+                Quit
+              </a>
             </div>
           </div>
         </div>
