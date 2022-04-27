@@ -410,7 +410,7 @@ class Play extends React.Component {
     console.log(playerStats);
     setTimeout(() => {
       this.props.history.push("/play/quizSummary", playerStats);
-    });
+    }, 0);
   };
 
   render() {

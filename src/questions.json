@@ -13,7 +13,7 @@
         "optionB": "Permission that the owner or controller of intellectual property grants to another party.",
         "optionC": "Legal document that describes an invention and grants a property rights to the inventor(s) or owner.",
         "optionD": "Way by which TTLCC grants rights in a certain product or technology to a third party in a certain field of activity, and for a certain period",
-        "answer": "Legal document that describes an invention and grants a property rights to the inventor(s) or owner"
+        "answer": "Legal document that describes an invention and grants a property rights to the inventor(s) or owner."
     },
     {
         "question": "Which company at HIT develops medical equipment?",
@@ -41,11 +41,11 @@
     },
     {
         "question": "Which areas of technology are the companies housed in the HIT Innovation Hub involved in?",
-        "optionA": "Software Engineering/Development, Medical technology, Design Engineering",
-        "optionB": "Allied health, Materials Engineering and Food Processing Technology",
-        "optionC": "Renewable Energy, Financial Engineering and  Chemical Engineering.",
-        "optionD": "Renewable Energy, Financial Engineering and  Civil Engineering.",
-        "answer": "Software Engineering/Development, Medical technology, Design Engineering"
+        "optionA": "Artificial Intelligence, data analytics, Internet of things, fintech",
+        "optionB": "Medical Technology, nano technology, design tehnology, biotechnology",
+        "optionC": "Allied Health, Pharmaceuticals, renewable energy, food technology",
+        "optionD": "All of the above",
+        "answer": "All of the above"
     },
     {
         "question": "How many Undergraduate programs are offered at HIT?",
